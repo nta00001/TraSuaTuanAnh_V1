@@ -1,0 +1,874 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\web-api-net-5\\WebAPIShoping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\services\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\services\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\helpers\\ordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\helpers\\ordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\database\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\database\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\database\\orderdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\database\\orderdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\database\\mydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\database\\mydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\database\\orderdetaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\database\\orderdetaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\request\\useridrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\request\\useridrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\request\\orderidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\request\\orderidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\foodmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\foodmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\database\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\database\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\uservouchermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\uservouchermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\database\\voucherdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\database\\voucherdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\vouchermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\vouchermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\database\\uservoucherdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\database\\uservoucherdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\services\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\services\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\ordersummarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\ordersummarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\helpers\\foodmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\helpers\\foodmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\database\\fooddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\database\\fooddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\migrations\\20250608164606_updateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\migrations\\20250608164606_updateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\services\\voucher\\ivoucherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\services\\voucher\\ivoucherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\services\\voucher\\voucherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\services\\voucher\\voucherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\helpers\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\helpers\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\services\\user\\userdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\services\\user\\userdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\services\\food\\ifoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\services\\food\\ifoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\helpers\\vouchermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\helpers\\vouchermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\userregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\userregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\services\\user\\iusedbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\services\\user\\iusedbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\services\\food\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\services\\food\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\webapishoping.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\webapishoping.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\webapishoping.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\webapishoping.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\migrations\\20250520094315_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\migrations\\20250520094315_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\migrations\\20250522023100_adduserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\migrations\\20250522023100_adduserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\migrations\\20250522084301_updatefooddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\migrations\\20250522084301_updatefooddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\migrations\\20250603092226_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\migrations\\20250603092226_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\migrations\\20250603101141_voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\migrations\\20250603101141_voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\migrations\\20250604030242_changevoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\migrations\\20250604030242_changevoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|c:\\git\\web-api-net-5\\webapishoping\\webapishoping\\migrations\\20250608173824_updateoderuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A989BF-CD95-48A8-9546-57A93DF59260}|WebAPIShoping\\WebAPIShoping.csproj|solutionrelative:webapishoping\\migrations\\20250608173824_updateoderuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 294,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDb.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\OrderDb.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Database\\OrderDb.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\OrderDb.cs",
+              "RelativeToolTip": "WebAPIShoping\\Database\\OrderDb.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:38:55.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebAPIShoping\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:38:42.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderMapper.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Helpers\\OrderMapper.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Helpers\\OrderMapper.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Helpers\\OrderMapper.cs",
+              "RelativeToolTip": "WebAPIShoping\\Helpers\\OrderMapper.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA2wF8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:24:28.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\OrderModel.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:14:56.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Database\\MyDbContext.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\MyDbContext.cs",
+              "RelativeToolTip": "WebAPIShoping\\Database\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:52:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\order\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Services\\order\\OrderRepository.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\order\\OrderRepository.cs",
+              "RelativeToolTip": "WebAPIShoping\\Services\\order\\OrderRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAASwCUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:25:57.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Program.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Program.cs",
+              "RelativeToolTip": "WebAPIShoping\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:44:53.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPIShoping\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:48:53.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\MyDbContextFactory.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Database\\MyDbContextFactory.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\MyDbContextFactory.cs",
+              "RelativeToolTip": "WebAPIShoping\\Database\\MyDbContextFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:25:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetailDb.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\OrderDetailDb.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Database\\OrderDetailDb.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\OrderDetailDb.cs",
+              "RelativeToolTip": "WebAPIShoping\\Database\\OrderDetailDb.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:04:44.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserIdRequest.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\request\\UserIdRequest.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\request\\UserIdRequest.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\request\\UserIdRequest.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\request\\UserIdRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:37:20.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderIdRequest.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\request\\OrderIdRequest.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\request\\OrderIdRequest.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\request\\OrderIdRequest.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\request\\OrderIdRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:00:46.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VoucherModel.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\VoucherModel.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\VoucherModel.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\VoucherModel.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\VoucherModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:13:28.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\BaseResponse.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\BaseResponse.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:15:48.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodModel.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\FoodModel.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\FoodModel.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\FoodModel.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\FoodModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:15:37.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDb.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\UserDb.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Database\\UserDb.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\UserDb.cs",
+              "RelativeToolTip": "WebAPIShoping\\Database\\UserDb.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:15:30.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserVoucherModel.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\UserVoucherModel.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\UserVoucherModel.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\UserVoucherModel.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\UserVoucherModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:42:46.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VoucherDb.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\VoucherDb.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Database\\VoucherDb.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\VoucherDb.cs",
+              "RelativeToolTip": "WebAPIShoping\\Database\\VoucherDb.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:12:12.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserVoucherDb.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\UserVoucherDb.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Database\\UserVoucherDb.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\UserVoucherDb.cs",
+              "RelativeToolTip": "WebAPIShoping\\Database\\UserVoucherDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:30:00.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250608173824_updateOderUser.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250608173824_updateOderUser.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Migrations\\20250608173824_updateOderUser.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250608173824_updateOderUser.cs",
+              "RelativeToolTip": "WebAPIShoping\\Migrations\\20250608173824_updateOderUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T17:38:24.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\order\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Services\\order\\IOrderRepository.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\order\\IOrderRepository.cs",
+              "RelativeToolTip": "WebAPIShoping\\Services\\order\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:25:58.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDetailModel.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\OrderDetailModel.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\OrderDetailModel.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\OrderDetailModel.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\OrderDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:01:43.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderSummaryModel.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\OrderSummaryModel.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\OrderSummaryModel.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\OrderSummaryModel.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\OrderSummaryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T17:11:24.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FoodMapper.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Helpers\\FoodMapper.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Helpers\\FoodMapper.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Helpers\\FoodMapper.cs",
+              "RelativeToolTip": "WebAPIShoping\\Helpers\\FoodMapper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:23:23.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FoodDb.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\FoodDb.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Database\\FoodDb.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Database\\FoodDb.cs",
+              "RelativeToolTip": "WebAPIShoping\\Database\\FoodDb.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:21:28.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250608164606_updateOrder.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250608164606_updateOrder.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Migrations\\20250608164606_updateOrder.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250608164606_updateOrder.cs",
+              "RelativeToolTip": "WebAPIShoping\\Migrations\\20250608164606_updateOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:46:07.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Helpers\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Helpers\\PasswordHasher.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Helpers\\PasswordHasher.cs",
+              "RelativeToolTip": "WebAPIShoping\\Helpers\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:48:39.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "WebAPIShoping\\Controllers\\FoodController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:11:47.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIShoping\\appsettings.json",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\appsettings.json",
+              "RelativeToolTip": "WebAPIShoping\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T08:45:15.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPIShoping\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T07:27:12.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Startup.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Startup.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Startup.cs",
+              "RelativeToolTip": "WebAPIShoping\\Startup.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:01:14.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VoucherRepository.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\voucher\\VoucherRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Services\\voucher\\VoucherRepository.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\voucher\\VoucherRepository.cs",
+              "RelativeToolTip": "WebAPIShoping\\Services\\voucher\\VoucherRepository.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwGAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:22:34.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IVoucherRepository.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\voucher\\IVoucherRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Services\\voucher\\IVoucherRepository.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\voucher\\IVoucherRepository.cs",
+              "RelativeToolTip": "WebAPIShoping\\Services\\voucher\\IVoucherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:22:17.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Helpers\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Helpers\\JwtUtils.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Helpers\\JwtUtils.cs",
+              "RelativeToolTip": "WebAPIShoping\\Helpers\\JwtUtils.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:23:45.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserDbRepository.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\user\\UserDbRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Services\\user\\UserDbRepository.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\user\\UserDbRepository.cs",
+              "RelativeToolTip": "WebAPIShoping\\Services\\user\\UserDbRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:00:54.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IFoodRepository.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\food\\IFoodRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Services\\food\\IFoodRepository.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\food\\IFoodRepository.cs",
+              "RelativeToolTip": "WebAPIShoping\\Services\\food\\IFoodRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:27:34.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "VoucherController.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Controllers\\VoucherController.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Controllers\\VoucherController.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Controllers\\VoucherController.cs",
+              "RelativeToolTip": "WebAPIShoping\\Controllers\\VoucherController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:30:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "VoucherMapper.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Helpers\\VoucherMapper.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Helpers\\VoucherMapper.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Helpers\\VoucherMapper.cs",
+              "RelativeToolTip": "WebAPIShoping\\Helpers\\VoucherMapper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:14:03.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserRegisterModel.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\UserRegisterModel.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\UserRegisterModel.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\UserRegisterModel.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\UserRegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:54:27.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250604030242_changeVoucher.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250604030242_changeVoucher.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Migrations\\20250604030242_changeVoucher.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250604030242_changeVoucher.cs",
+              "RelativeToolTip": "WebAPIShoping\\Migrations\\20250604030242_changeVoucher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:02:42.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPIShoping\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:41:35.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUseDbRepository.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\user\\IUseDbRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Services\\user\\IUseDbRepository.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\user\\IUseDbRepository.cs",
+              "RelativeToolTip": "WebAPIShoping\\Services\\user\\IUseDbRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:48:21.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\UserLoginModel.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\UserLoginModel.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\UserLoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:14:59.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FoodRepository.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\food\\FoodRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Services\\food\\FoodRepository.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Services\\food\\FoodRepository.cs",
+              "RelativeToolTip": "WebAPIShoping\\Services\\food\\FoodRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:27:53.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250603101141_Voucher.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250603101141_Voucher.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Migrations\\20250603101141_Voucher.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250603101141_Voucher.cs",
+              "RelativeToolTip": "WebAPIShoping\\Migrations\\20250603101141_Voucher.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:11:41.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Models\\User.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Models\\User.cs",
+              "RelativeToolTip": "WebAPIShoping\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:14:56.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250603092226_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250603092226_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Migrations\\20250603092226_InitialCreate.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250603092226_InitialCreate.cs",
+              "RelativeToolTip": "WebAPIShoping\\Migrations\\20250603092226_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:22:26.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WebAPIShoping.http",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\WebAPIShoping.http",
+              "RelativeDocumentMoniker": "WebAPIShoping\\WebAPIShoping.http",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\WebAPIShoping.http",
+              "RelativeToolTip": "WebAPIShoping\\WebAPIShoping.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-03T07:27:02.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WebAPIShoping.csproj",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\WebAPIShoping.csproj",
+              "RelativeDocumentMoniker": "WebAPIShoping\\WebAPIShoping.csproj",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\WebAPIShoping.csproj",
+              "RelativeToolTip": "WebAPIShoping\\WebAPIShoping.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T07:03:50.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250522084301_updateFoodDB.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250522084301_updateFoodDB.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Migrations\\20250522084301_updateFoodDB.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250522084301_updateFoodDB.cs",
+              "RelativeToolTip": "WebAPIShoping\\Migrations\\20250522084301_updateFoodDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:43:01.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250522023100_AddUserdb.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250522023100_AddUserdb.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Migrations\\20250522023100_AddUserdb.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250522023100_AddUserdb.cs",
+              "RelativeToolTip": "WebAPIShoping\\Migrations\\20250522023100_AddUserdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:31:00.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250520094315_DbInit.cs",
+              "DocumentMoniker": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250520094315_DbInit.cs",
+              "RelativeDocumentMoniker": "WebAPIShoping\\Migrations\\20250520094315_DbInit.cs",
+              "ToolTip": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\Migrations\\20250520094315_DbInit.cs",
+              "RelativeToolTip": "WebAPIShoping\\Migrations\\20250520094315_DbInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:43:16.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

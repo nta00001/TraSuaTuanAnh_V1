@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="item"
+            type="com.example.trasuatuananh.api.model.Food" />
+
+        <import type="android.view.View" />
+
+        <import type="com.example.trasuatuananh.util.StringUtils" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/ctlItem"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="4dp"
+        android:background="@drawable/bg_border_square_gray"
+        android:clickable="true"
+        android:focusable="true"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp">
+
+        <ImageView
+            android:id="@+id/ivTea"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:adjustViewBounds="true"
+            android:padding="5dp"
+            android:scaleType="fitCenter"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:srcCompat="@drawable/ic_launcher_background" />
+
+        <TextView
+            android:id="@+id/txtName"
+            style="@style/text_body_md_default"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:text="@{item.foodName}"
+            app:layout_constraintStart_toEndOf="@+id/txtX"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Tên Món" />
+
+        <TextView
+            android:id="@+id/txtGia"
+            style="@style/text_body_md_strong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:text="@{StringUtils.INSTANCE.calculateItemPrice(item)}"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            tools:text="10000" />
+
+
+        <TextView
+            android:id="@+id/txtQuantity"
+            style="@style/text_body_md_strong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text='@{ String.valueOf(item.quantity) }'
+            app:layout_constraintStart_toEndOf="@+id/ivTea"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="100" />
+
+        <TextView
+            android:id="@+id/txtSize"
+            style="@style/text_body_md_default"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="@{StringUtils.INSTANCE.getSizeString(item.size)}"
+            android:visibility="@{item.size != null? View.VISIBLE : View.GONE}"
+            app:layout_constraintStart_toEndOf="@+id/txtName"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="- M" />
+
+        <TextView
+            android:id="@+id/txtX"
+            style="@style/text_body_md_strong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:text="@string/txt_x"
+            app:layout_constraintStart_toEndOf="@+id/txtQuantity"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            style="@style/text_body_md_strong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:text="@string/txt_d"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/txtGia" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,17 @@
+﻿namespace WebAPIShoping.Helpers
+{
+    public class PasswordHasher
+    {
+        // Hash password
+        public static string HashPassword(string password)
+        {
+            return BCrypt.Net.BCrypt.HashPassword(password);
+        }
+
+        // Kiểm tra mật khẩu khi đăng nhập
+        public static bool VerifyPassword(string password, string hashedPassword)
+        {
+            return BCrypt.Net.BCrypt.Verify(password, hashedPassword);
+        }
+    }
+}

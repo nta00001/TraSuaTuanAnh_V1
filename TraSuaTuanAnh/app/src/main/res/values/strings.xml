@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">Trà Sữa Tuấn Anh</string>
+
+    <string name="common_close">Đóng</string>
+    <string name="common_cancel">Hủy</string>
+    <string name="common_success">Đồng ý</string>
+    <string name="common_finish">Đóng ứng dụng</string>
+    <string name="common_open_settings">Mở cài đặt hệ thống</string>
+
+    <string name="title_login">Đăng Nhập</string>
+    <string name="title_register">Đăng Ký tài khoản</string>
+    <string name="title_info">Thông tin</string>
+    <string name="restaurant_login_title">Đăng nhập cho nhà hàng</string>
+    <string name="title_payment">Thanh toán</string>
+    <string name="register">Đăng Ký</string>
+    <string name="title">Trà Sữa Hoàng Hải</string>
+    <string name="password">Mật Khẩu</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="forgot_password">Quên Mật Khẩu</string>
+    <string name="app_notify_title">Thông báo</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="edit_full_name">Nhập họ và tên</string>
+    <string name="address_placeholder">Tên đường, số nhà</string>
+    <string name="choose_location">Chọn Tỉnh/Thành Phố, Quận/Huyện, Phường/Xã</string>
+    <string name="address_components">Phường/Xã, Quận/Huyện, Tỉnh/Thành phố</string>
+    <string name="choose_province_city">Chọn Tỉnh/Thành Phố</string>
+    <string name="province_city_with_placeholder">Tỉnh/Thành phố: %s</string>
+    <string name="district_with_placeholder">Quận/Huyện: %s</string>
+    <string name="ward_with_placeholder">Xã/Phường: %s</string>
+    <string name="choose_district">Chọn Quận/Huyện</string>
+    <string name="choose_ward">Chọn Xã/Phường</string>
+    <string name="enter_address">Nhập tên đường, số nhà</string>
+    <string name="account">Số điện thoại</string>
+    <string name="edit_account">Nhập số điện thoại</string>
+    <string name="pass_word">Mật khẩu</string>
+    <string name="edit_pass_word">Nhập mật khẩu</string>
+    <string name="re_enter_password">Nhập lại mật khẩu</string>
+    <string name="search_content">Nhập nội dung tìm kiếm</string>
+    <string name="no_discount_code">Bạn chưa có mã giảm giá nào</string>
+    <string name="qr_code_image">Mã QR hiển thị</string>
+    <string name="qr_code">Mã QR</string>
+    <string name="txt_voucher">Mã Giảm Giá</string>
+    <string name="order_list_title">Danh sách đơn</string>
+    <string name="revenue_title">Doanh Thu</string>
+    <string name="week">Tuần</string>
+    <string name="month">Tháng</string>
+    <string name="year">Năm</string>
+    <string name="txt_total_income">Tổng thu nhập</string>
+    <string name="save_img">Lưu ảnh</string>
+    <string name="save_image_success">Lưu ảnh thành công</string>
+    <string name="save_image_failed">Không thể lưu ảnh</string>
+    <string name="order_success">Đặt hàng thành công</string>
+
+    <string name="payment_cod">Thanh toán khi nhận hàng</string>
+    <string name="payment_qr">Thanh toán qua mã QR</string>
+    <string name="txt_address">Địa chỉ :</string>
+    <string name="order_date">Ngày đặt hàng :</string>
+    <string name="txt_full_name">Họ và tên :</string>
+    <string name="txt_payment_method">Phương thức thanh toán :</string>
+    <string name="txt_total_amount">Tổng tiền :</string>
+    <string name="txt_phone_number">Số điện thoại :</string>
+    <string name="total_amount">Thành tiền :</string>
+
+
+
+    // notification
+    <string name="login_success">Đăng nhập thành công</string>
+    <string name="hello_admin">Xin chào admin</string>
+    <string name="register_success">Đăng Ký thành công</string>
+    <string name="account_already_registered">Số điện thoại đã được đăng ký</string>
+    <string name="in_valid_full_name">Họ và tên phải có ít nhất 6 kí tự</string>
+    <string name="in_valid_account">Số điện thoại không đúng</string>
+    <string name="in_valid_pass_word">Mật khẩu phải có từ 6 đến 32 kí tự và không chứa dấu cách</string>
+    <string name="in_valid_re_pass_word">Mật khẩu không trùng khớp</string>
+    <string name="in_valid_date">Bạn chưa chọn ngày tháng năm sinh</string>
+    <string name="login_failed">Tài khoản hoặc mật khẩu không đúng</string>
+    <string name="register_failed">Số điện thoại đã được đăng ký</string>
+    <string name="error_firebase">Xin lỗi! Hệ thống hiện đang gián đoạn. Vui lòng thử lại sau</string>
+    <string name="error_internet">Vui lòng kiểm tra kết nối mạng</string>
+    <string name="register_account">Đăng Ký Tài Khoản</string>
+    <string name="_84">+84</string>
+    <string name="cancel">Hủy</string>
+    <string name="sever_error">Hệ thống gián đoạn, vui lòng thử lại sau!</string>
+    <string name="log_out">Bạn có muốn đăng xuất tài khoản</string>
+    <string name="login_account_null">Số điện thoại và mật khẩu không được để trống</string>
+    <string name="location_permission_request">Vui lòng cung cấp quyền truy cập vị trí để sử dụng ứng dụng</string>
+    <string name="location_permission_required">Cần cung cấp quyền truy cập vị trí để sử dụng ứng dụng</string>
+    <string name="error_qr_generation">Không thể tạo mã QR. Vui lòng kiểm tra lại thông tin giao dịch.</string>
+
+
+    // format
+    <string name="text_limit_input_character">%d/%d ký tự</string>
+    <string name="text_address">Địa chỉ: %s</string>
+    <string name="place_order">Đặt đơn </string>
+    <string name="pay_by_qr">Tạo Mã QR </string>
+
+
+    // title
+    <string name="confirm">Xác nhận</string>
+    <string name="title_hello">Trà Sữa Hoàng Hải Xin Chào!</string>
+    <string name="best_sell">Các món hot gần đây</string>
+    <string name="promotion">Mã Giảm Giá</string>
+    <string name="see_more">Xem thêm</string>
+    <string name="your_location">Vị trí của bạn</string>
+    <string name="address">Địa chỉ</string>
+    <string name="list_food">Danh sách món</string>
+    <string name="quantity">Số lượng:</string>
+    <string name="choose_topping">Chọn topping</string>
+    <string name="shopping_cart">Giỏ hàng</string>
+    <string name="size_m">Size M</string>
+    <string name="size_l">Size L + 5.000đ</string>
+    <string name="select_size">Chọn size</string>
+    <string name="zero">10000</string>
+    <string name="txt_title_date">Chọn ngày sinh</string>
+    <string name="tv_cart">Giỏ Hàng</string>
+    <string name="txt_location">Địa chỉ giao hàng</string>
+    <string name="txt_total_price_of_the_dish">Tổng giá món :</string>
+    <string name="txt_shipping_fee">Phí giao hàng :</string>
+    <string name="txt_discount">Giảm giá :</string>
+    <string name="txt_total_payment">Tổng thanh toán :</string>
+    <string name="txt_add_voucher">Thêm voucher</string>
+    <string name="txt_select_voucher">Chọn voucher</string>
+    <string name="txt_list_food">Danh sách món :</string>
+    <string name="txt_qr">Mã QR</string>
+    <string name="txt_cash">Tiền mặt</string>
+    <string name="txt_x">x</string>
+    <string name="txt_d">đ</string>
+    <string name="scan_qr_to_transfer_money">Quét mã chuyển tiền đến</string>
+    <string name="name_account_shop">PHAM HOANG HAI</string>
+    <string name="account_shop">103870442864</string>
+    <string name="bank_name">Vietinbank</string>
+    <string name="payment_bubble_tea">Thanh toán tiền trà sữa</string>
+    <string name="store_name">Tên cửa hàng</string>
+    <string name="saving_redeem_amount_new">Số tiền</string>
+    <string name="content">Nội dung</string>
+    <string name="order_history">Lịch sử giao dịch</string>
+    <string name="change_password">Đổi mật khẩu</string>
+
+
+    <string name="new_password">Mật khẩu mới</string>
+    <string name="enter_new_password">Nhập mật khẩu mới</string>
+    <string name="old_password">Mật khẩu cũ</string>
+    <string name="enter_old_password">Nhập mật khẩu cũ</string>
+    <string name="order_list">Danh sách đơn</string>
+    <string name="statistics">Thống kê</string>
+    <string name="settings">Cài đặt</string>
+
+    <string name="confirm_order">Xác nhận \n đơn</string>
+    <string name="btn_confirm_order">Xác nhận đơn</string>
+    <string name="shipping_in_progress">Đang giao \n hàng</string>
+    <string name="completed">Hoàn \n thành</string>
+    <string name="canceled">Đã \n hủy</string>
+    <string name="btn_canceled"> Hủy Đơn </string>
+    <string name="last_7_days">7 ngày vừa qua</string>
+    <string name="last_30_days">30 ngày qua</string>
+    <string name="last_1_year">1 năm qua</string>
+    <string name="order_details_title">Chi tiết đơn hàng</string>
+    <string name="order_total">Tổng tiền :</string>
+
+    <string name="order_status_confirmed">Đã xác nhận đơn</string>
+    <string name="order_status_canceled">Đã hủy đơn</string>
+    <string name="order_status_completed">Hoàn thành</string>
+    <string name="ordering_status">Đơn đang \n đặt</string>
+
+
+    <string name="status_pending">Chờ xác nhận</string>
+    <string name="status_shipping">Đang giao hàng</string>
+    <string name="status_completed">Hoàn thành</string>
+    <string name="status_cancelled">Đã hủy</string>
+
+
+</resources>

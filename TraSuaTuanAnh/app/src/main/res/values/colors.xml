@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="transparent">#00ffffff</color>
+    <color name="white_2">#EDEDED</color>
+    <color name="yellow_primary">#F89C1C</color>
+    <color name="gray_text_594B45">#594B45</color>
+    <color name="gray_text_311B12">#311B12</color>
+    <color name="brown_text_6E361A">#6E361A</color>
+    <color name="gray_text_181C1F">#181C1F</color>
+    <color name="text_strong">#311B12</color>
+    <color name="button_disable">#0F000000</color>
+    <color name="orange_FFA928">#FFA928</color>
+    <color name="orange_text_F99D1C">#F99D1C</color>
+    <color name="orange_link_FFBF4E">#FFBF4E</color>
+    <color name="brown_link_884D30">#884D30</color>
+    <color name="blue_96D6FF">#96D6FF</color>
+    <color name="text_disable">#3D000000</color>
+    <color name="text_brand">#6E361A</color>
+    <color name="brown_F6D8CD">#F6D8CD</color>
+    <color name="text_subtle">#746B67</color>
+    <color name="black_alpha_border_6">#0F000000</color>
+    <color name="brown_link_5B260C">#5B260C</color>
+    <color name="text_normal">@color/gray_text_594B45</color>
+    <color name="red_text_FF4D4D">#FF4D4D</color>
+    <color name="black_alpha_text_24">#3D000000</color>
+    <color name="grey">#808080</color>
+    <color name="gray_E7E7E7">#E7E7E7</color>
+    <color name="black_alpha_border_8">#14000000</color>
+    <color name="grey_two">#f1f1f1</color>
+    <color name="gray_text_746B67">#746B67</color>
+
+    <color name="neutral_subtle">#594B45</color>
+
+    <color name="orange_link_FFDE9C">#FFDE9C</color>
+</resources>

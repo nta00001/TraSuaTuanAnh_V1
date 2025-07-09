@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\sodabacha.jpg",
+      "PackagePath": "staticwebassets\\images\\sodabacha.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\suachuavietquat.jpg",
+      "PackagePath": "staticwebassets\\images\\suachuavietquat.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\tradaucamxa.jpg",
+      "PackagePath": "staticwebassets\\images\\tradaucamxa.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasua3loai.jpg",
+      "PackagePath": "staticwebassets\\images\\trasua3loai.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuabaanhem.jpg",
+      "PackagePath": "staticwebassets\\images\\trasuabaanhem.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuacamvai.jpeg",
+      "PackagePath": "staticwebassets\\images\\trasuacamvai.jpeg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchauduongden.jpg",
+      "PackagePath": "staticwebassets\\images\\trasuachanchauduongden.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchauthachluu.jpg",
+      "PackagePath": "staticwebassets\\images\\trasuachanchauthachluu.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchautrang.png",
+      "PackagePath": "staticwebassets\\images\\trasuachanchautrang.png"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchautrangne.jpg",
+      "PackagePath": "staticwebassets\\images\\trasuachanchautrangne.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuadaumatra.jpg",
+      "PackagePath": "staticwebassets\\images\\trasuadaumatra.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuaduahau.jpg",
+      "PackagePath": "staticwebassets\\images\\trasuaduahau.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuahoanhai.jpeg",
+      "PackagePath": "staticwebassets\\images\\trasuahoanhai.jpeg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuakhoaimon.jpg",
+      "PackagePath": "staticwebassets\\images\\trasuakhoaimon.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuamattra.jpg",
+      "PackagePath": "staticwebassets\\images\\trasuamattra.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuasocola.jpg",
+      "PackagePath": "staticwebassets\\images\\trasuasocola.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuatracay.jpg",
+      "PackagePath": "staticwebassets\\images\\trasuatracay.jpg"
+    },
+    {
+      "Id": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\trasuaduahau.jpg",
+      "PackagePath": "staticwebassets\\trasuaduahau.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAPIShoping.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAPIShoping.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebAPIShoping.props",
+      "PackagePath": "build\\WebAPIShoping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPIShoping.props",
+      "PackagePath": "buildMultiTargeting\\WebAPIShoping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebAPIShoping.props",
+      "PackagePath": "buildTransitive\\WebAPIShoping.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <attr name="limitInput" format="integer" />
+    <attr name="hideClearText" format="boolean" />
+    <attr name="enabledInput" format="boolean" />
+    <attr name="disableHint" format="boolean" />
+    <attr name="showDescriptionAsDefault" format="boolean" />
+    <attr name="hiddenLine" format="boolean" />
+    <attr name="spinnerBg" format="reference" />
+    <attr name="labelTitle" format="string" />
+    <attr name="hideTitle" format="boolean" />
+    <attr name="srcActionIcon" format="reference" />
+    <attr name="textInput" format="string" />
+    <attr name="textResource" format="integer" />
+    <attr name="hint" format="string" />
+
+    <attr name="style">
+        <enum name="line" value="0" />
+        <enum name="solid" value="1" />
+        <enum name="solid_line" value="2" />
+    </attr>
+
+    <declare-styleable name="CommonToolbar">
+        <attr name="title" format="string" />
+        <attr name="titleColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="ClearableTextInput">
+        <attr name="textInput" />
+        <attr name="textResource" />
+        <attr name="labelTitle" />
+        <attr name="hint" />
+        <attr name="hideTitle" />
+        <attr name="srcActionIcon" />
+        <attr name="android:maxLength" />
+        <attr name="android:inputType" />
+        <attr name="limitInput" />
+        <attr name="hideClearText" />
+        <attr name="enabledInput" />
+        <attr name="titleStyle" format="reference" />
+        <attr name="titleTextColor" format="color|reference" />
+        <attr name="errorLabel" format="string" />
+        <attr name="enabledErrorLabel" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="ClearableAmountInput">
+        <attr name="textInput" />
+        <attr name="labelTitle" />
+        <attr name="hint" />
+        <attr name="hideTitle" />
+        <attr name="srcActionIcon" />
+        <attr name="android:maxLength" />
+        <attr name="android:inputType" />
+        <attr name="limitInput" />
+        <attr name="hideClearText" />
+        <attr name="enabledInput" />
+    </declare-styleable>
+
+
+</resources>

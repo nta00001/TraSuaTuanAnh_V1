@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="item"
+            type="com.example.trasuatuananh.api.model.Food" />
+
+        <import type="android.view.View" />
+
+        <import type="com.example.trasuatuananh.util.StringUtils" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/ctlItem"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="4dp"
+        android:background="@drawable/bg_border_square_gray"
+        android:clickable="true"
+        android:focusable="true"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp">
+
+        <ImageView
+            android:id="@+id/ivTea"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:srcCompat="@drawable/ic_launcher_background" />
+
+        <TextView
+            android:id="@+id/txtName"
+            style="@style/text_body_md_strong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="4dp"
+            android:text="@{item.foodName}"
+            app:layout_constraintStart_toEndOf="@+id/ivTea"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Tên Món" />
+
+        <TextView
+            android:id="@+id/txtDescription"
+            style="@style/text_body_md_default"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="114dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@{item.description}"
+            app:layout_constraintStart_toEndOf="@+id/ivTea"
+            app:layout_constraintTop_toBottomOf="@+id/txtName"
+            tools:text="trà sữa vị ngọt dịu thơm mát" />
+
+        <TextView
+            style="@style/text_body_md_strong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:text="@string/quantity"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/txtQuantity" />
+
+        <TextView
+            android:id="@+id/txtGia"
+            style="@style/text_body_md_strong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:text="@{StringUtils.INSTANCE.formatMoney(item.price)}"
+            android:textColor="#D2374A"
+            app:layout_constraintStart_toEndOf="@+id/ivTea"
+            app:layout_constraintTop_toBottomOf="@+id/txtSize"
+            tools:text="10000đ" />
+
+        <ImageButton
+            android:id="@+id/btnAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:adjustViewBounds="true"
+            android:background="#D2374A"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:srcCompat="@drawable/ic_add" />
+
+        <TextView
+            android:id="@+id/txtQuantity"
+            style="@style/text_body_md_strong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:text="@{String.valueOf(item.quantity)}"
+            android:textColor="#D2374A"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/btnSub"
+            tools:text="100" />
+
+        <ImageButton
+            android:id="@+id/btnSub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:adjustViewBounds="true"
+            android:background="#D2374A"
+            android:visibility="@{item.quantity != 0? View.VISIBLE : View.GONE}"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/btnAdd"
+            app:srcCompat="@drawable/ic_minus" />
+
+        <TextView
+            android:id="@+id/txtSize"
+            style="@style/text_body_md_default"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:text="@{StringUtils.INSTANCE.getSizeString(item.size)}"
+            android:visibility="@{item.size != null? View.VISIBLE : View.GONE}"
+            app:layout_constraintStart_toEndOf="@+id/ivTea"
+            app:layout_constraintTop_toBottomOf="@+id/txtDescription"
+            tools:text="- M" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,1876 @@
+{
+  "Version": 1,
+  "Hash": "mmc8qFXVkQFRuSW1QQ4cDakYGkbeSsxdEKZdYUeqR84=",
+  "Source": "WebAPIShoping",
+  "BasePath": "_content/WebAPIShoping",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPIShoping\\wwwroot",
+      "Source": "WebAPIShoping",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\sodabacha.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/sodabacha#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uane6zo7jv",
+      "Integrity": "iiC7KONMl56TP8xfAs/XBPIvZ6LvlIjh9RLE2DqG/9M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sodabacha.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\suachuavietquat.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/suachuavietquat#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gfz02y2zdu",
+      "Integrity": "pGJcMreqvcmSxurml7qc1W6i0t9PzhJrMv+wq8VDBJk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\suachuavietquat.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\tradaucamxa.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/tradaucamxa#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7142z124og",
+      "Integrity": "60f8epAZN8wMDcP0sJQ/ROLxcahK0QxgWZVa82b91+I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tradaucamxa.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasua3loai.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasua3loai#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n46ybemgtk",
+      "Integrity": "eWmcLJK2n8uDb9KNULLU2uTKPSCbzFDDHRX/zWUjepg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasua3loai.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuabaanhem.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuabaanhem#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "acsvyhvkg1",
+      "Integrity": "xij5Uy0gTdHz9CoIZdWU0Ws2b0zFdg0B4yavBg4cla4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuabaanhem.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuacamvai.jpeg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuacamvai#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oeeve3b5nn",
+      "Integrity": "sASd52NWZY5dHGPPypPSSfjaX1daHnp78IzcyHVNhn8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuacamvai.jpeg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchauduongden.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuachanchauduongden#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "88df4aggtd",
+      "Integrity": "uNxBSaEIbgktsYsJh/V/TadglctmpgYpDJ5ZS9mqtZE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuachanchauduongden.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchauthachluu.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuachanchauthachluu#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vlb9b5q39j",
+      "Integrity": "AyKdULdPBFcEhV8a9qZp2y1dIVCluTwpBnRoo97rlKY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuachanchauthachluu.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchautrang.png",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuachanchautrang#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z7zhdr903h",
+      "Integrity": "cSqINZeKfyzgPT3pnDiY9azXwEv6v/GU+uRoVdg5JoI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuachanchautrang.png"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchautrangne.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuachanchautrangne#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sterta9gp0",
+      "Integrity": "0LjJLSC3tFJNUKKqK7NM4A30Fqv1HZaifD2mz27MwRQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuachanchautrangne.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuadaumatra.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuadaumatra#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p8hbk9szb1",
+      "Integrity": "CQTQxrcn1yBhZKNuDZnwW7VF4liMWwOfzCHGeSnX8sM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuadaumatra.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuaduahau.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuaduahau#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d6hi0twwub",
+      "Integrity": "i0QKPxoVfU61Om0mtt/q6nRT6Vuu5V2wYXiJDRAoUKs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuaduahau.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuahoanhai.jpeg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuahoanhai#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pljpir52rh",
+      "Integrity": "fZ2Vh+2f7DYSQQCERJ3NkX52Z5elcNZcB61kp0THW0E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuahoanhai.jpeg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuakhoaimon.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuakhoaimon#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0cbq11ll6g",
+      "Integrity": "4JAE6Onyp0QGUICpR4lCgET1391CYn1/gtizQcHhsjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuakhoaimon.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuamattra.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuamattra#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3dpoydjidh",
+      "Integrity": "Z/wSf1R4ypV8XqDDpdRt7879wRIIrd7fwZRfjItIbKY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuamattra.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuasocola.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuasocola#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u7dbvjeddu",
+      "Integrity": "quI9d8zFyalRU5XYFOPZbpUUSztHdiYxhJfnj+6EaEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuasocola.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuatracay.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "images/trasuatracay#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pvk0bbem1t",
+      "Integrity": "tcAQTSNqOFACR/KpRiVD1H9BjsHv1NfAFOwcjDG5iC4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trasuatracay.jpg"
+    },
+    {
+      "Identity": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\trasuaduahau.jpg",
+      "SourceId": "WebAPIShoping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\",
+      "BasePath": "_content/WebAPIShoping",
+      "RelativePath": "trasuaduahau#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d6hi0twwub",
+      "Integrity": "i0QKPxoVfU61Om0mtt/q6nRT6Vuu5V2wYXiJDRAoUKs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\trasuaduahau.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/sodabacha.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\sodabacha.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iiC7KONMl56TP8xfAs/XBPIvZ6LvlIjh9RLE2DqG/9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iiC7KONMl56TP8xfAs/XBPIvZ6LvlIjh9RLE2DqG/9M="
+        }
+      ]
+    },
+    {
+      "Route": "images/sodabacha.uane6zo7jv.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\sodabacha.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iiC7KONMl56TP8xfAs/XBPIvZ6LvlIjh9RLE2DqG/9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uane6zo7jv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sodabacha.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iiC7KONMl56TP8xfAs/XBPIvZ6LvlIjh9RLE2DqG/9M="
+        }
+      ]
+    },
+    {
+      "Route": "images/suachuavietquat.gfz02y2zdu.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\suachuavietquat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pGJcMreqvcmSxurml7qc1W6i0t9PzhJrMv+wq8VDBJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gfz02y2zdu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/suachuavietquat.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pGJcMreqvcmSxurml7qc1W6i0t9PzhJrMv+wq8VDBJk="
+        }
+      ]
+    },
+    {
+      "Route": "images/suachuavietquat.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\suachuavietquat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pGJcMreqvcmSxurml7qc1W6i0t9PzhJrMv+wq8VDBJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pGJcMreqvcmSxurml7qc1W6i0t9PzhJrMv+wq8VDBJk="
+        }
+      ]
+    },
+    {
+      "Route": "images/tradaucamxa.7142z124og.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\tradaucamxa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"60f8epAZN8wMDcP0sJQ/ROLxcahK0QxgWZVa82b91+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7142z124og"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tradaucamxa.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-60f8epAZN8wMDcP0sJQ/ROLxcahK0QxgWZVa82b91+I="
+        }
+      ]
+    },
+    {
+      "Route": "images/tradaucamxa.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\tradaucamxa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"60f8epAZN8wMDcP0sJQ/ROLxcahK0QxgWZVa82b91+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-60f8epAZN8wMDcP0sJQ/ROLxcahK0QxgWZVa82b91+I="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasua3loai.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasua3loai.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eWmcLJK2n8uDb9KNULLU2uTKPSCbzFDDHRX/zWUjepg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eWmcLJK2n8uDb9KNULLU2uTKPSCbzFDDHRX/zWUjepg="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasua3loai.n46ybemgtk.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasua3loai.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eWmcLJK2n8uDb9KNULLU2uTKPSCbzFDDHRX/zWUjepg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n46ybemgtk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasua3loai.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eWmcLJK2n8uDb9KNULLU2uTKPSCbzFDDHRX/zWUjepg="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuabaanhem.acsvyhvkg1.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuabaanhem.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xij5Uy0gTdHz9CoIZdWU0Ws2b0zFdg0B4yavBg4cla4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "acsvyhvkg1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuabaanhem.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xij5Uy0gTdHz9CoIZdWU0Ws2b0zFdg0B4yavBg4cla4="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuabaanhem.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuabaanhem.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xij5Uy0gTdHz9CoIZdWU0Ws2b0zFdg0B4yavBg4cla4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xij5Uy0gTdHz9CoIZdWU0Ws2b0zFdg0B4yavBg4cla4="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuacamvai.jpeg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuacamvai.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sASd52NWZY5dHGPPypPSSfjaX1daHnp78IzcyHVNhn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sASd52NWZY5dHGPPypPSSfjaX1daHnp78IzcyHVNhn8="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuacamvai.oeeve3b5nn.jpeg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuacamvai.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sASd52NWZY5dHGPPypPSSfjaX1daHnp78IzcyHVNhn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oeeve3b5nn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuacamvai.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sASd52NWZY5dHGPPypPSSfjaX1daHnp78IzcyHVNhn8="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuachanchauduongden.88df4aggtd.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchauduongden.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uNxBSaEIbgktsYsJh/V/TadglctmpgYpDJ5ZS9mqtZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "88df4aggtd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuachanchauduongden.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uNxBSaEIbgktsYsJh/V/TadglctmpgYpDJ5ZS9mqtZE="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuachanchauduongden.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchauduongden.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uNxBSaEIbgktsYsJh/V/TadglctmpgYpDJ5ZS9mqtZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uNxBSaEIbgktsYsJh/V/TadglctmpgYpDJ5ZS9mqtZE="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuachanchauthachluu.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchauthachluu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AyKdULdPBFcEhV8a9qZp2y1dIVCluTwpBnRoo97rlKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AyKdULdPBFcEhV8a9qZp2y1dIVCluTwpBnRoo97rlKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuachanchauthachluu.vlb9b5q39j.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchauthachluu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AyKdULdPBFcEhV8a9qZp2y1dIVCluTwpBnRoo97rlKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vlb9b5q39j"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuachanchauthachluu.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AyKdULdPBFcEhV8a9qZp2y1dIVCluTwpBnRoo97rlKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuachanchautrang.png",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchautrang.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cSqINZeKfyzgPT3pnDiY9azXwEv6v/GU+uRoVdg5JoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cSqINZeKfyzgPT3pnDiY9azXwEv6v/GU+uRoVdg5JoI="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuachanchautrang.z7zhdr903h.png",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchautrang.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cSqINZeKfyzgPT3pnDiY9azXwEv6v/GU+uRoVdg5JoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z7zhdr903h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuachanchautrang.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cSqINZeKfyzgPT3pnDiY9azXwEv6v/GU+uRoVdg5JoI="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuachanchautrangne.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchautrangne.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0LjJLSC3tFJNUKKqK7NM4A30Fqv1HZaifD2mz27MwRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0LjJLSC3tFJNUKKqK7NM4A30Fqv1HZaifD2mz27MwRQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuachanchautrangne.sterta9gp0.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuachanchautrangne.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0LjJLSC3tFJNUKKqK7NM4A30Fqv1HZaifD2mz27MwRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sterta9gp0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuachanchautrangne.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0LjJLSC3tFJNUKKqK7NM4A30Fqv1HZaifD2mz27MwRQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuadaumatra.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuadaumatra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CQTQxrcn1yBhZKNuDZnwW7VF4liMWwOfzCHGeSnX8sM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQTQxrcn1yBhZKNuDZnwW7VF4liMWwOfzCHGeSnX8sM="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuadaumatra.p8hbk9szb1.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuadaumatra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CQTQxrcn1yBhZKNuDZnwW7VF4liMWwOfzCHGeSnX8sM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8hbk9szb1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuadaumatra.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CQTQxrcn1yBhZKNuDZnwW7VF4liMWwOfzCHGeSnX8sM="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuaduahau.d6hi0twwub.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuaduahau.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i0QKPxoVfU61Om0mtt/q6nRT6Vuu5V2wYXiJDRAoUKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d6hi0twwub"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuaduahau.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0QKPxoVfU61Om0mtt/q6nRT6Vuu5V2wYXiJDRAoUKs="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuaduahau.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuaduahau.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i0QKPxoVfU61Om0mtt/q6nRT6Vuu5V2wYXiJDRAoUKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0QKPxoVfU61Om0mtt/q6nRT6Vuu5V2wYXiJDRAoUKs="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuahoanhai.jpeg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuahoanhai.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78830"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fZ2Vh+2f7DYSQQCERJ3NkX52Z5elcNZcB61kp0THW0E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fZ2Vh+2f7DYSQQCERJ3NkX52Z5elcNZcB61kp0THW0E="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuahoanhai.pljpir52rh.jpeg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuahoanhai.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78830"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fZ2Vh+2f7DYSQQCERJ3NkX52Z5elcNZcB61kp0THW0E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pljpir52rh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuahoanhai.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fZ2Vh+2f7DYSQQCERJ3NkX52Z5elcNZcB61kp0THW0E="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuakhoaimon.0cbq11ll6g.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuakhoaimon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JAE6Onyp0QGUICpR4lCgET1391CYn1/gtizQcHhsjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0cbq11ll6g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuakhoaimon.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4JAE6Onyp0QGUICpR4lCgET1391CYn1/gtizQcHhsjo="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuakhoaimon.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuakhoaimon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4JAE6Onyp0QGUICpR4lCgET1391CYn1/gtizQcHhsjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4JAE6Onyp0QGUICpR4lCgET1391CYn1/gtizQcHhsjo="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuamattra.3dpoydjidh.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuamattra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z/wSf1R4ypV8XqDDpdRt7879wRIIrd7fwZRfjItIbKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3dpoydjidh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuamattra.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z/wSf1R4ypV8XqDDpdRt7879wRIIrd7fwZRfjItIbKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuamattra.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuamattra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z/wSf1R4ypV8XqDDpdRt7879wRIIrd7fwZRfjItIbKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z/wSf1R4ypV8XqDDpdRt7879wRIIrd7fwZRfjItIbKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuasocola.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuasocola.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"quI9d8zFyalRU5XYFOPZbpUUSztHdiYxhJfnj+6EaEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-quI9d8zFyalRU5XYFOPZbpUUSztHdiYxhJfnj+6EaEU="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuasocola.u7dbvjeddu.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuasocola.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"quI9d8zFyalRU5XYFOPZbpUUSztHdiYxhJfnj+6EaEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u7dbvjeddu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuasocola.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-quI9d8zFyalRU5XYFOPZbpUUSztHdiYxhJfnj+6EaEU="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuatracay.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuatracay.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tcAQTSNqOFACR/KpRiVD1H9BjsHv1NfAFOwcjDG5iC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tcAQTSNqOFACR/KpRiVD1H9BjsHv1NfAFOwcjDG5iC4="
+        }
+      ]
+    },
+    {
+      "Route": "images/trasuatracay.pvk0bbem1t.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\images\\trasuatracay.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tcAQTSNqOFACR/KpRiVD1H9BjsHv1NfAFOwcjDG5iC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pvk0bbem1t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/trasuatracay.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tcAQTSNqOFACR/KpRiVD1H9BjsHv1NfAFOwcjDG5iC4="
+        }
+      ]
+    },
+    {
+      "Route": "trasuaduahau.d6hi0twwub.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\trasuaduahau.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i0QKPxoVfU61Om0mtt/q6nRT6Vuu5V2wYXiJDRAoUKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d6hi0twwub"
+        },
+        {
+          "Name": "label",
+          "Value": "trasuaduahau.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0QKPxoVfU61Om0mtt/q6nRT6Vuu5V2wYXiJDRAoUKs="
+        }
+      ]
+    },
+    {
+      "Route": "trasuaduahau.jpg",
+      "AssetFile": "C:\\Git\\web-api-net-5\\WebAPIShoping\\WebAPIShoping\\wwwroot\\trasuaduahau.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "315628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i0QKPxoVfU61Om0mtt/q6nRT6Vuu5V2wYXiJDRAoUKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 07:05:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0QKPxoVfU61Om0mtt/q6nRT6Vuu5V2wYXiJDRAoUKs="
+        }
+      ]
+    }
+  ]
+}
